@@ -1,8 +1,3 @@
-
-
-
-
-
 const SortFilterControls = ({
   sortBy,
   sortDir,
